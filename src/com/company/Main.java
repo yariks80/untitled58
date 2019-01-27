@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code
         System.out.println("hello");
+        System.out.println("hello");
         System.out.println("hi");
         System.out.println("hi");
         System.out.println("hi");
@@ -18,6 +19,26 @@ public class Main {
         System.out.println("hi");
         System.out.println("hi");
         System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+
+
+
+
 
 
 
